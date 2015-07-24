@@ -1,3 +1,3 @@
-# ClaimAcademy
+# Claim Academy Java Boot camp
 
-BookStore App for learning Java web development
+BookStore App for learning Java Web development
