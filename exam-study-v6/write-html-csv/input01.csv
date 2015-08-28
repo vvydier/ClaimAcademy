@@ -1,0 +1,3 @@
+"row 1, cell 1",this is some data in a cell,this is the last cell of row,
+"""a quoted string""",<some text in angle brackets>,1234,beware of special characters such as ampersand (&)
+"the last row, first cell",middle cell,last cell of last row,
