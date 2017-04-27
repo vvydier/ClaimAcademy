@@ -19,6 +19,8 @@ tmp/**/*
 local.properties
 .classpath
 .settings/
+eclipse-ws/
+apache-tomcat-*/
 .loadpath
 
 # External tool builders

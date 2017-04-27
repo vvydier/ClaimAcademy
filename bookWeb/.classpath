@@ -8,7 +8,8 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Program Files/MySQL/MySQL Server 5.6/lib/mysql-connector-java-commercial-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/mysql/5.7.12/mysql-connector-java-5.1.38/mysql-connector-java-5.1.38-bin.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/vvydier/Projects/ClaimAcademy/apache-tomcat-9.0.0.M3/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

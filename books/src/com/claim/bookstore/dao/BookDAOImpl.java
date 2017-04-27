@@ -40,8 +40,9 @@ public class BookDAOImpl implements BookDAO {
 		List<Book> result = new ArrayList<Book>();
 		List<Author> authorList = new ArrayList<Author>();
 
-		String sql = "select * from book inner join author on book.id = author.book_id";
-
+//		String sql = "select * from book inner join author on book.id = author.book_id";
+		String sql = "select * from book, author where book.id = author.book_id";
+		
 		Connection connection = null;
 		try {
 			connection = getConnection();
